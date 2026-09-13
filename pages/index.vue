@@ -33,12 +33,12 @@
         data-aos-delay="400"
       >
         <h1>
-          <span>Graduate Analyst</span>
+          <span>Software Development</span>
           <br />
-          <span class="outlined">Technology</span> At
+          <span class="outlined">Engineer II</span> At
           <br />
-          <a href="https://www.db.com/" target="_blank" rel="noopener" title="db.com">
-            <span class="underline-magical-hero">Deutsche Bank</span>
+          <a href="https://www.amazon.com/" target="_blank" rel="noopener" title="amazon.com">
+            <span class="underline-magical-hero">Amazon</span>
           </a>
         </h1>
       </div>

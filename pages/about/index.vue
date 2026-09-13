@@ -57,7 +57,7 @@
       <div class="distress-column adminscreen">
         <pcase
           heading="Hello there!"
-          para="I'm Raghav Aggarwal and Currently I work in Deutsche Bank  in Pune, India. 
+          para="I'm Raghav Aggarwal and Currently I work as an SDE II at Amazon.
           Being from a non CS background, I have developed quite an interest in 
           how software industry works. <br>
           I have done a lot of projects and have tried to explore every 
@@ -305,7 +305,7 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content: ' Software Developer at Deutsche Bank'
+          content: 'SDE II at Amazon'
         },
         {
           hid: 'keywords',

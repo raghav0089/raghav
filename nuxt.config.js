@@ -14,6 +14,12 @@ const productionUrl = {
 
 const baseUrl = 'https://raghavaggarwal.com';
 
+// node-sass 4 has no Apple Silicon binary; prefer dart-sass when it is installed
+let sassImplementation
+try {
+  sassImplementation = require('sass')
+} catch (e) {}
+
 export default {
   mode: 'spa',
 
@@ -199,6 +205,11 @@ export default {
    ** Build configuration
    */
   build: {
+
+    loaders: sassImplementation ? {
+      scss: { implementation: sassImplementation },
+      sass: { implementation: sassImplementation }
+    } : {},
 
     extend(config) {
       const rule = config.module.rules.find(r => r.test.toString() === '/\\.(png|jpe?g|gif|svg|webp)$/i')
