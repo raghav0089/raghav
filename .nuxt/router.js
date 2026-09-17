@@ -3,20 +3,20 @@ import Router from 'vue-router'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _42e0cf74 = () => interopDefault(import('../pages/about/index.vue' /* webpackChunkName: "pages/about/index" */))
-const _32cfddd1 = () => interopDefault(import('../pages/Blog/index.vue' /* webpackChunkName: "pages/Blog/index" */))
-const _3ed65091 = () => interopDefault(import('../pages/Opensource.vue' /* webpackChunkName: "pages/Opensource" */))
-const _ded61aee = () => interopDefault(import('../pages/projects/index.vue' /* webpackChunkName: "pages/projects/index" */))
-const _7ff4d101 = () => interopDefault(import('../pages/projects/automizeapps.vue' /* webpackChunkName: "pages/projects/automizeapps" */))
-const _12c2fb66 = () => interopDefault(import('../pages/projects/Blockchain.vue' /* webpackChunkName: "pages/projects/Blockchain" */))
-const _1097596a = () => interopDefault(import('../pages/projects/goals101.vue' /* webpackChunkName: "pages/projects/goals101" */))
-const _1bf88346 = () => interopDefault(import('../pages/projects/GoCorona.vue' /* webpackChunkName: "pages/projects/GoCorona" */))
-const _99f1fe8c = () => interopDefault(import('../pages/projects/playcode.vue' /* webpackChunkName: "pages/projects/playcode" */))
-const _1ff5e249 = () => interopDefault(import('../pages/projects/playlife.vue' /* webpackChunkName: "pages/projects/playlife" */))
-const _0e11a878 = () => interopDefault(import('../pages/projects/SocialContour.vue' /* webpackChunkName: "pages/projects/SocialContour" */))
-const _454d213a = () => interopDefault(import('../pages/projects/streerides.vue' /* webpackChunkName: "pages/projects/streerides" */))
-const _c770524a = () => interopDefault(import('../pages/projects/TravelGo.vue' /* webpackChunkName: "pages/projects/TravelGo" */))
-const _bba42714 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _0877531e = () => interopDefault(import('../pages/about/index.vue' /* webpackChunkName: "pages/about/index" */))
+const _62110334 = () => interopDefault(import('../pages/Blog/index.vue' /* webpackChunkName: "pages/Blog/index" */))
+const _6e1775f4 = () => interopDefault(import('../pages/Opensource.vue' /* webpackChunkName: "pages/Opensource" */))
+const _462eae6c = () => interopDefault(import('../pages/projects/index.vue' /* webpackChunkName: "pages/projects/index" */))
+const _d6a50084 = () => interopDefault(import('../pages/projects/automizeapps.vue' /* webpackChunkName: "pages/projects/automizeapps" */))
+const _763dbc4a = () => interopDefault(import('../pages/projects/Blockchain.vue' /* webpackChunkName: "pages/projects/Blockchain" */))
+const _04e3e888 = () => interopDefault(import('../pages/projects/goals101.vue' /* webpackChunkName: "pages/projects/goals101" */))
+const _019958cc = () => interopDefault(import('../pages/projects/GoCorona.vue' /* webpackChunkName: "pages/projects/GoCorona" */))
+const _7f92d412 = () => interopDefault(import('../pages/projects/playcode.vue' /* webpackChunkName: "pages/projects/playcode" */))
+const _2d257786 = () => interopDefault(import('../pages/projects/playlife.vue' /* webpackChunkName: "pages/projects/playlife" */))
+const _7b5454a7 = () => interopDefault(import('../pages/projects/SocialContour.vue' /* webpackChunkName: "pages/projects/SocialContour" */))
+const _5cf8a960 = () => interopDefault(import('../pages/projects/streerides.vue' /* webpackChunkName: "pages/projects/streerides" */))
+const _ad1127d0 = () => interopDefault(import('../pages/projects/TravelGo.vue' /* webpackChunkName: "pages/projects/TravelGo" */))
+const _120db533 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 Vue.use(Router)
 
@@ -29,59 +29,59 @@ export const routerOptions = {
 
   routes: [{
     path: "/about",
-    component: _42e0cf74,
+    component: _0877531e,
     name: "about___en"
   }, {
     path: "/Blog",
-    component: _32cfddd1,
+    component: _62110334,
     name: "Blog___en"
   }, {
     path: "/Opensource",
-    component: _3ed65091,
+    component: _6e1775f4,
     name: "Opensource___en"
   }, {
     path: "/projects",
-    component: _ded61aee,
+    component: _462eae6c,
     name: "projects___en"
   }, {
     path: "/projects/automizeapps",
-    component: _7ff4d101,
+    component: _d6a50084,
     name: "projects-automizeapps___en"
   }, {
     path: "/projects/Blockchain",
-    component: _12c2fb66,
+    component: _763dbc4a,
     name: "projects-Blockchain___en"
   }, {
     path: "/projects/goals101",
-    component: _1097596a,
+    component: _04e3e888,
     name: "projects-goals101___en"
   }, {
     path: "/projects/GoCorona",
-    component: _1bf88346,
+    component: _019958cc,
     name: "projects-GoCorona___en"
   }, {
     path: "/projects/playcode",
-    component: _99f1fe8c,
+    component: _7f92d412,
     name: "projects-playcode___en"
   }, {
     path: "/projects/playlife",
-    component: _1ff5e249,
+    component: _2d257786,
     name: "projects-playlife___en"
   }, {
     path: "/projects/SocialContour",
-    component: _0e11a878,
+    component: _7b5454a7,
     name: "projects-SocialContour___en"
   }, {
     path: "/projects/streerides",
-    component: _454d213a,
+    component: _5cf8a960,
     name: "projects-streerides___en"
   }, {
     path: "/projects/TravelGo",
-    component: _c770524a,
+    component: _ad1127d0,
     name: "projects-TravelGo___en"
   }, {
     path: "/",
-    component: _bba42714,
+    component: _120db533,
     name: "index___en"
   }],
 

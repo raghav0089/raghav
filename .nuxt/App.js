@@ -8,7 +8,6 @@ import {
 
 import NuxtError from '../layouts/error.vue'
 import NuxtLoading from './components/nuxt-loading.vue'
-import NuxtBuildIndicator from './components/nuxt-build-indicator'
 
 import '../assets/css/main.css'
 
@@ -23,7 +22,7 @@ import _1c274e70 from '../layouts/projects.vue'
 const layouts = { "_about": _7705a157,"_blog": _2d21d098,"_default": _6f6c098b,"_preloader": _5bb9a540,"_projects": _1c274e70 }
 
 export default {
-  head: {"title":"Raghav Aggarwal - Software Developer","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"},{"name":"msapplication-TileColor","content":"#fc3a52"},{"name":"application-name","content":"raghavaggarwal.com"},{"name":"msapplication-TileImage","content":"\u002Ffavicons\u002Fmstile-144x144.png"},{"name":"theme-color","content":"#fc3a52"},{"name":"robots","content":"index, follow"},{"name":"twitter:card","content":"summary_large_image"},{"name":"twitter:site","content":"@saurabhcrai110"},{"property":"og:type","content":"profile"},{"property":"og:updated_time","content":"2021-06-22T05:27:47.383Z"},{"hid":"mobile-web-app-capable","name":"mobile-web-app-capable","content":"yes"},{"hid":"apple-mobile-web-app-title","name":"apple-mobile-web-app-title","content":"raghavaggarwal.com"},{"hid":"og:title","name":"og:title","property":"og:title","content":"raghavaggarwal.com"},{"hid":"og:site_name","name":"og:site_name","property":"og:site_name","content":"raghavaggarwal.com"}],"script":[{"src":" https:\u002F\u002Funpkg.com\u002Fapplause-button\u002Fdist\u002Fapplause-button.js"},{"src":"https:\u002F\u002Fcdnjs.cloudflare.com\u002Fajax\u002Flibs\u002Fjquery\u002F3.3.1\u002Fjquery.min.js","body":true,"async":true},{"src":"https:\u002F\u002Frawcdn.githack.com\u002Fmburakerman\u002Fprognroll\u002F0feda211643153bce2c69de32ea1b39cdc64ffbe\u002Fsrc\u002Fprognroll.js","body":true,"async":true,"ssr":false},{"src":"\u002Fraghav\u002Feasescroll.js","body":true,"async":true,"ssr":false},{"src":"\u002Fraghav\u002Fmain.js","defer":true,"body":true,"async":true}],"link":[{"rel":"manifest","href":"\u002Fraghav\u002F_nuxt\u002Fmanifest.6a09ef8f.json"}],"style":[],"htmlAttrs":{"lang":"en"}},
+  head: {"title":"Raghav Aggarwal - Software Developer","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"},{"name":"msapplication-TileColor","content":"#fc3a52"},{"name":"application-name","content":"raghavaggarwal.com"},{"name":"msapplication-TileImage","content":"\u002Ffavicons\u002Fmstile-144x144.png"},{"name":"theme-color","content":"#fc3a52"},{"name":"robots","content":"index, follow"},{"name":"twitter:card","content":"summary_large_image"},{"name":"twitter:site","content":"@saurabhcrai110"},{"property":"og:type","content":"profile"},{"property":"og:updated_time","content":"2026-09-17T08:07:43.886Z"},{"hid":"mobile-web-app-capable","name":"mobile-web-app-capable","content":"yes"},{"hid":"apple-mobile-web-app-title","name":"apple-mobile-web-app-title","content":"raghavaggarwal.com"},{"hid":"og:title","name":"og:title","property":"og:title","content":"raghavaggarwal.com"},{"hid":"og:site_name","name":"og:site_name","property":"og:site_name","content":"raghavaggarwal.com"}],"script":[{"src":" https:\u002F\u002Funpkg.com\u002Fapplause-button\u002Fdist\u002Fapplause-button.js"},{"src":"https:\u002F\u002Fcdnjs.cloudflare.com\u002Fajax\u002Flibs\u002Fjquery\u002F3.3.1\u002Fjquery.min.js","body":true,"async":true},{"src":"https:\u002F\u002Frawcdn.githack.com\u002Fmburakerman\u002Fprognroll\u002F0feda211643153bce2c69de32ea1b39cdc64ffbe\u002Fsrc\u002Fprognroll.js","body":true,"async":true,"ssr":false},{"src":"\u002Fraghav\u002Feasescroll.js","body":true,"async":true,"ssr":false},{"src":"\u002Fraghav\u002Fmain.js","defer":true,"body":true,"async":true}],"link":[{"rel":"manifest","href":"\u002Fraghav\u002F_nuxt\u002Fmanifest.6a09ef8f.json"}],"style":[],"htmlAttrs":{"lang":"en"}},
 
   render (h, props) {
     const loadingEl = h('NuxtLoading', { ref: 'loading' })
@@ -65,7 +64,7 @@ export default {
       }
     }, [
       loadingEl,
-      h(NuxtBuildIndicator),
+
       transitionEl
     ])
   },
@@ -175,10 +174,6 @@ export default {
     },
 
     setLayout (layout) {
-      if(layout && typeof layout !== 'string') {
-        throw new Error('[nuxt] Avoid using non-string value as layout property.')
-      }
-
       if (!layout || !layouts['_' + layout]) {
         layout = 'default'
       }
