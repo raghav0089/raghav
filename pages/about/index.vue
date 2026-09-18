@@ -103,27 +103,69 @@
         </div>
 
         <div class="a-c-code">
-          <p class="a-c_subheading red">+Code</p>
+          <p class="a-c_subheading red">+AI & Agents</p>
 
           <div class="pm black70">
             <div class="a-c_layout">
+              <span>Agentic AI</span>
+              <span>AI Agents</span>
+              <span>LLM Integrations</span>
+              <span>Google Dialogflow</span>
+            </div>
+          </div>
+
+          <p class="a-c_subheading red">+Languages</p>
+
+          <div class="pm black70">
+            <div class="a-c_layout">
+              <span>Go</span>
+              <span>Java</span>
+              <span>Python</span>
+              <span>C++</span>
+              <span>Javascript</span>
+            </div>
+          </div>
+
+          <p class="a-c_subheading red">+Web</p>
+
+          <div class="pm black70">
+            <div class="a-c_layout">
+              <span>React.js</span>
+              <span>Vue.js</span>
               <span>HTML</span>
               <span>CSS</span>
-              <span>Javascript</span>
-              <span>Vue.js</span>
-              <span>Sails Framework</span>
+            </div>
+          </div>
+
+          <p class="a-c_subheading red">+Mobile</p>
+
+          <div class="pm black70">
+            <div class="a-c_layout">
+              <span>Flutter</span>
+              <span>React Native</span>
+            </div>
+          </div>
+
+          <p class="a-c_subheading red">+Backend & Data</p>
+
+          <div class="pm black70">
+            <div class="a-c_layout">
               <span>DJango</span>
               <span>Flask</span>
-              <span>Git & Github</span>
-              <span>Google Dialogflow, Google Firebase</span>
-              <span>Flutter</span>
-              <span>AWS*</span>
-              <span>C++</span>
-              <span>Python</span>
-               <span>MySql</span>
-              <span>Data Structures and ALgorithms</span>
+              <span>Sails Framework</span>
+              <span>MySql</span>
               <span>Blockchain Ethereum Services</span>
+            </div>
+          </div>
 
+          <p class="a-c_subheading red">+Cloud & Tools</p>
+
+          <div class="pm black70">
+            <div class="a-c_layout">
+              <span>AWS</span>
+              <span>Google Firebase</span>
+              <span>Git & Github</span>
+              <span>Data Structures and Algorithms</span>
             </div>
           </div>
         </div>

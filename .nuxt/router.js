@@ -5,6 +5,7 @@ import scrollBehavior from './router.scrollBehavior.js'
 
 const _0877531e = () => interopDefault(import('../pages/about/index.vue' /* webpackChunkName: "pages/about/index" */))
 const _62110334 = () => interopDefault(import('../pages/Blog/index.vue' /* webpackChunkName: "pages/Blog/index" */))
+const _1df07230 = () => interopDefault(import('../pages/freelance.vue' /* webpackChunkName: "pages/freelance" */))
 const _6e1775f4 = () => interopDefault(import('../pages/Opensource.vue' /* webpackChunkName: "pages/Opensource" */))
 const _462eae6c = () => interopDefault(import('../pages/projects/index.vue' /* webpackChunkName: "pages/projects/index" */))
 const _d6a50084 = () => interopDefault(import('../pages/projects/automizeapps.vue' /* webpackChunkName: "pages/projects/automizeapps" */))
@@ -35,6 +36,10 @@ export const routerOptions = {
     path: "/Blog",
     component: _62110334,
     name: "Blog___en"
+  }, {
+    path: "/freelance",
+    component: _1df07230,
+    name: "freelance___en"
   }, {
     path: "/Opensource",
     component: _6e1775f4,
