@@ -208,80 +208,58 @@ export default {
 
 #playlist{
 display: flex;
+justify-content: center;
+align-items: center;
 list-style: none;
 padding: 0;
-margin: 0 0 0 120px;
-gap: 50px;
+margin: 0 auto;
+gap: 40px;
+width: 100%;
+grid-column: 1 / -1;
+border-bottom: none;
 }
-.playlife{
+#playlist li{
 width: auto;
 }
-.playcode{
-width: auto;
+#playlist .nav-link{
+display: block;
+min-width: 240px;
+padding: 20px 60px;
+font-size: 24px;
+line-height: 1;
+text-align: center;
+text-decoration: none;
+border: 1px solid var(--primary-color);
+border-radius: 50px;
+color: var(--primary-color);
+transition: background-color 0.3s ease, color 0.3s ease;
 }
-
-
+#playlist .nav-link:hover,
+#playlist .nav-link.nuxt-link-exact-active,
+#playlist .active .nav-link{
+background-color: var(--primary-color);
+color: #fff;
+}
 @media screen and (max-width: 800px) {
-
   #playlist{
-    
-    display: inline;
-    width: 60%;
-    margin-left: 100px;
+    gap: 20px;
   }
-
-  .playlife{
-
-        width: 50%;
-        }
-
-        .playcode{
-
-
-        width: 50%;
-        }
+  #playlist .nav-link{
+    min-width: 150px;
+    padding: 16px 30px;
+    font-size: 20px;
+  }
 }
-
-@media screen and (max-width: 600px) {
-
+@media screen and (max-width: 500px) {
   #playlist{
-    
-    display: inline;
-    width: 80%;
-    margin-left: 50px;
+    gap: 12px;
   }
-
-  .playlife{
-
-        width: 50%;
-        }
-
-        .playcode{
-
-
-        width: 50%;
-        }
-}
-
-@media screen and (max-width: 400px) {
-
-  #playlist{
-    
-    display: inline;
-    width: 80%;
-    margin-left: 30px;
+  #playlist .nav-link{
+    min-width: 0;
+    width: 100%;
+    padding: 14px 20px;
+    font-size: 18px;
   }
-
-  .playlife{
-
-        width: 50%;
-        }
-
-        .playcode{
-
-
-        width: 50%;
-        }
 }
 
 .mainquote{
