@@ -94,7 +94,7 @@
       <div class="reveal-holder" data-aos="fade-up" data-aos-once="true">
         <div class="reveal-block right" data-aos="reveal-right" data-aos-once="true"></div>
         <picture>
-          <img src="~assets/projects/divineheal/img2.jpg" alt="DivinHeal partner hospitals" />
+          <img src="~assets/projects/divineheal/img2.jpg" alt="The journey planner collecting condition, budget and destination" />
         </picture>
       </div>
     </div>

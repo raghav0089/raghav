@@ -55,15 +55,6 @@
       theme="theme_dreamz"
     />
 
-    <div class="p-image-100-duo">
-      <div class="reveal-holder" data-aos="fade-up" data-aos-once="true">
-        <div class="reveal-block right" data-aos="reveal-right" data-aos-once="true"></div>
-        <picture>
-          <img src="~assets/projects/trulyabled/img1.jpg" alt="Disability in India" />
-        </picture>
-      </div>
-    </div>
-
     <pcase
       heading="2. The backend"
       para="Behind the site sits the usual, necessary half: APIs and a database holding the content, the solutions catalogue and
@@ -74,13 +65,25 @@
       theme="theme_dreamz"
     />
 
+    <div class="p-image-100-duo">
+      <div class="reveal-holder" data-aos="fade-up" data-aos-once="true">
+        <div class="reveal-block right" data-aos="reveal-right" data-aos-once="true"></div>
+        <picture>
+          <img src="~assets/projects/trulyabled/img1.jpg" alt="A solution in the catalogue, with a Hindi explanation on request" />
+        </picture>
+      </div>
+    </div>
+
     <pcase
       heading="3. The LLM chat"
       para="I built the LLM chat — a way to ask about disability support in plain language instead of navigating a menu that assumes
       you already know the right vocabulary.<br><br>
       That framing matters for this audience. The person asking may be a caregiver who does not know what the thing they need is
       called, or someone for whom a dense page of links is the barrier. A chat that answers a question as it was actually asked
-      removes a step that a conventional site structure quietly demands."
+      removes a step that a conventional site structure quietly demands.<br><br>
+      It answers in the language the question arrives in — Hindi, Hinglish or English — and follows up to narrow things down
+      before it recommends, because &lsquo;my father had a stroke and can't walk on his own&rsquo; is the start of a conversation,
+      not a search query."
       theme="theme_dreamz"
     />
 
@@ -88,7 +91,7 @@
       <div class="reveal-holder" data-aos="fade-up" data-aos-once="true">
         <div class="reveal-block right" data-aos="reveal-right" data-aos-once="true"></div>
         <picture>
-          <img src="~assets/projects/trulyabled/img2.jpg" alt="AI-powered solutions finder" />
+          <img src="~assets/projects/trulyabled/img3.jpg" alt="The chat answering a caregiver's question in Hinglish" />
         </picture>
       </div>
     </div>

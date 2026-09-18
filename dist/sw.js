@@ -26,10 +26,6 @@ workbox.precaching.precacheAndRoute([
     "revision": "1e1735ffad1b7dd7dbeccbfbf6b2e3ed"
   },
   {
-    "url": "/raghav/_nuxt/25d4c6dcd55bea340ef5.js",
-    "revision": "94fbbb9bae53ee84dbbc5f42d161f07a"
-  },
-  {
     "url": "/raghav/_nuxt/30c3cee3437b819f155e.js",
     "revision": "07d1fe80c80a657b9ede25b3b5c3a2d4"
   },
@@ -42,16 +38,12 @@ workbox.precaching.precacheAndRoute([
     "revision": "d65f52eb8820a8cb5067ac004bc7e4b6"
   },
   {
+    "url": "/raghav/_nuxt/52a60b11a3426bc9e982.js",
+    "revision": "a3359e89c9babe3978e46aff51e620db"
+  },
+  {
     "url": "/raghav/_nuxt/5e723052741b0f828af1.js",
     "revision": "1f62d76d1d2133e11589851b3415a314"
-  },
-  {
-    "url": "/raghav/_nuxt/5ec52b2cec828b69554b.js",
-    "revision": "61bc018ec1597ca903b90d9dd1505b88"
-  },
-  {
-    "url": "/raghav/_nuxt/6034354b05e43e0e00b5.js",
-    "revision": "9b5617bf36f468d529bec045da1c8dfe"
   },
   {
     "url": "/raghav/_nuxt/638fc78685bbb0e11bc1.js",
@@ -78,6 +70,10 @@ workbox.precaching.precacheAndRoute([
     "revision": "25057f4e63890cc0b62bcf1120b6089d"
   },
   {
+    "url": "/raghav/_nuxt/97157ab2da8460af1186.js",
+    "revision": "db13aa8f19c9fd82536af91105971e8f"
+  },
+  {
     "url": "/raghav/_nuxt/9b3e554a7beef2e1a468.js",
     "revision": "df0816230057d778f5cbda83c2667792"
   },
@@ -94,12 +90,20 @@ workbox.precaching.precacheAndRoute([
     "revision": "5eef37c88fabb2e105c6640a2c6ef79c"
   },
   {
+    "url": "/raghav/_nuxt/af3e52f69cfc43369d37.js",
+    "revision": "6a2fe28b2f41c84993888bbdcb97ba44"
+  },
+  {
     "url": "/raghav/_nuxt/bd6a770a2e8c33d474d2.js",
     "revision": "0bb48f9fba435f5f0cd10f2c82ce7ceb"
   },
   {
     "url": "/raghav/_nuxt/c5736a962d8a04201966.js",
     "revision": "93eb76017411b068d14425a553437c34"
+  },
+  {
+    "url": "/raghav/_nuxt/ce5215a77bb906267c89.js",
+    "revision": "f9f6e4ba034afce11f46d0b0d07875e8"
   },
   {
     "url": "/raghav/_nuxt/d979af2868592f57eb18.js",
@@ -116,10 +120,6 @@ workbox.precaching.precacheAndRoute([
   {
     "url": "/raghav/_nuxt/edb581a964d6264abf77.js",
     "revision": "fedee9399f2f7a0973f17d101bae7c9b"
-  },
-  {
-    "url": "/raghav/_nuxt/f332c9c6ed83a6d73325.js",
-    "revision": "6385c7f96c7e12d1a94343a837925508"
   },
   {
     "url": "/raghav/_nuxt/f81ccdc387b912907dca.js",
