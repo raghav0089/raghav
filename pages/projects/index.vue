@@ -31,7 +31,7 @@
             <thumbnail
               thumbnailName="Layerpath"
               thumbnailDescription="Built their agent end to end"
-              thumbnail="/raghav/layerpath.png"
+              thumbnail="/raghav/layerpath.jpg"
               data-aos="zoom-out-up"
               data-aos-duration="400"
               data-aos-delay="200"
@@ -46,7 +46,7 @@
             <thumbnail
               thumbnailName="DivinHeal"
               thumbnailDescription="Backend infra for the recommendation system"
-              thumbnail="/raghav/divineheal.png"
+              thumbnail="/raghav/divineheal.jpg"
               data-aos="zoom-out-up"
               data-aos-duration="400"
               data-aos-delay="400"
@@ -61,7 +61,7 @@
             <thumbnail
               thumbnailName="TrulyAbled"
               thumbnailDescription="Website for Kudrat Foundation"
-              thumbnail="/raghav/trulyabled.png"
+              thumbnail="/raghav/trulyabled.jpg"
               data-aos="zoom-out-up"
               data-aos-duration="400"
               data-aos-delay="600"
@@ -131,7 +131,7 @@
         </div>
 
         <div class="p-thumbnail-ad">
-          <nuxt-link to="/OpenSource">
+          <nuxt-link to="/opensource">
             <thumbnail
               thumbnailName="OpenSource"
               thumbnailDescription="OpenSource"

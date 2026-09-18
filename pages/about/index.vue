@@ -19,7 +19,7 @@
         </div>
 
          <div class="example" data-aos="fade-up" data-aos-duration="900">
-         <a target="_blank" href="https://drive.google.com/file/d/1eY17t6eSunu_KQV46eylpop8Wd8C8w3I/view?usp=sharing">
+         <a target="_blank" href="https://drive.google.com/file/d/1wEhuggVwIua5Cj4pnLVri2sd8R9pbgCR/view?usp=sharing">
           <!-- <nuxt-link to="https://drive.google.com/file/d/1eY17t6eSunu_KQV46eylpop8Wd8C8w3I/view?usp=sharing" style="text-decoration: none;"> -->
             <span class="underline-magical">Resume</span>
           <!-- </nuxt-link> -->
@@ -177,7 +177,7 @@
         </nuxt-link>
         <hr>
 
-        <nuxt-link to="/playlife">
+        <nuxt-link to="/projects/playlife">
           <div class="a-c_photography">
             <p class="a-c_subheading red">+Some Play</p>
           </div>
@@ -221,7 +221,7 @@
           data-aos-delay="1000"
           data-aos-anchor-placement="top-bottom"
         >
-          <img id="zoom-default" src="~assets/about/download.png" type="image/webp" />
+          <img id="zoom-default" src="~assets/about/download.jpg" type="image/webp" />
         </div>
         <div
           class="bottom-fit"

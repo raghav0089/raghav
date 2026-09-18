@@ -14,10 +14,10 @@
              
 				  <ul class="nav nav-tabs" id="playlist">
 
-                    <li class="playlife"  id="playlife"><a class="nav-item nav-link" style="text-align: center" id="nav-home-tab" data-toggle="tab" href="/raghav/projects/playlife" role="tab" aria-controls="nav-home" aria-selected="false">Life</a></li>
-                    
-                    <li class="active playcode" ><a class="nav-item nav-link" style="text-align: center" id="nav-home-tab" data-toggle="tab" href="/raghav/projects/playcode" role="tab" aria-controls="nav-home" aria-selected="false">Code</a></li>
-                
+                    <li class="playlife" id="playlife"><nuxt-link class="nav-item nav-link" style="text-align: center" to="/projects/playlife">Life</nuxt-link></li>
+
+                    <li class="active playcode"><nuxt-link class="nav-item nav-link" style="text-align: center" to="/projects/playcode">Code</nuxt-link></li>
+
                 </ul>
 
 
@@ -207,20 +207,17 @@ export default {
 
 
 #playlist{
-
-display: inline;
-width: 250%;
-left: 80%;
-margin-left: 120px;
-
+display: flex;
+list-style: none;
+padding: 0;
+margin: 0 0 0 120px;
+gap: 50px;
 }
-
 .playlife{
-width: 50%;
+width: auto;
 }
-
 .playcode{
-width: 50%;
+width: auto;
 }
 
 

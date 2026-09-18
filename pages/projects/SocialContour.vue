@@ -384,7 +384,7 @@
         </div>
 
         <div class="p-f-n-container">
-          <nuxt-link to="/OpenSource">
+          <nuxt-link to="/opensource">
             <pfootern
               projectName="OpenSource"
               projectCategories="Open Source"

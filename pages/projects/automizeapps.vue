@@ -193,7 +193,7 @@
       <div class="projects-footer-container">
         <allprojectsnav />
         <div class="p-f-p-container">
-          <nuxt-link to="/OpenSource">
+          <nuxt-link to="/opensource">
             <pfooterp
               projectName="Open Source"
               projectCategories="Opensource"

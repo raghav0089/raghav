@@ -4,8 +4,8 @@ import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
 const _0877531e = () => interopDefault(import('../pages/about/index.vue' /* webpackChunkName: "pages/about/index" */))
-const _62110334 = () => interopDefault(import('../pages/Blog/index.vue' /* webpackChunkName: "pages/Blog/index" */))
-const _6e1775f4 = () => interopDefault(import('../pages/Opensource.vue' /* webpackChunkName: "pages/Opensource" */))
+const _c46b91d8 = () => interopDefault(import('../pages/blog/index.vue' /* webpackChunkName: "pages/blog/index" */))
+const _ac5eac58 = () => interopDefault(import('../pages/opensource.vue' /* webpackChunkName: "pages/opensource" */))
 const _462eae6c = () => interopDefault(import('../pages/projects/index.vue' /* webpackChunkName: "pages/projects/index" */))
 const _d6a50084 = () => interopDefault(import('../pages/projects/automizeapps.vue' /* webpackChunkName: "pages/projects/automizeapps" */))
 const _763dbc4a = () => interopDefault(import('../pages/projects/Blockchain.vue' /* webpackChunkName: "pages/projects/Blockchain" */))
@@ -35,13 +35,13 @@ export const routerOptions = {
     component: _0877531e,
     name: "about___en"
   }, {
-    path: "/Blog",
-    component: _62110334,
-    name: "Blog___en"
+    path: "/blog",
+    component: _c46b91d8,
+    name: "blog___en"
   }, {
-    path: "/Opensource",
-    component: _6e1775f4,
-    name: "Opensource___en"
+    path: "/opensource",
+    component: _ac5eac58,
+    name: "opensource___en"
   }, {
     path: "/projects",
     component: _462eae6c,

@@ -44,7 +44,7 @@
               <nuxt-link to="/">Home</nuxt-link>
             </span>
             <span class="nav__list-item">
-              <nuxt-link to="/playlife">Play</nuxt-link>
+              <nuxt-link to="/projects/playlife">Play</nuxt-link>
             </span>
             <span class="nav__list-item">
               <nuxt-link to="/blog">Blog</nuxt-link>

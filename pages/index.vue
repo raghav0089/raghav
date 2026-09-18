@@ -17,7 +17,7 @@
         </div>
 
          <div class="example" data-aos="fade-up" data-aos-duration="900">
-         <a target="_blank" href="https://drive.google.com/file/d/1eY17t6eSunu_KQV46eylpop8Wd8C8w3I/view?usp=sharing">
+         <a target="_blank" href="https://drive.google.com/file/d/1wEhuggVwIua5Cj4pnLVri2sd8R9pbgCR/view?usp=sharing">
           <!-- <nuxt-link to="https://drive.google.com/file/d/1eY17t6eSunu_KQV46eylpop8Wd8C8w3I/view?usp=sharing" style="text-decoration: none;"> -->
             <span class="underline-magical">Resume</span>
           <!-- </nuxt-link> -->
@@ -57,7 +57,7 @@
             <thumbnail
               thumbnailName="Layerpath"
               thumbnailDescription="Built their agent end to end"
-              thumbnail="/raghav/layerpath.png"
+              thumbnail="/raghav/layerpath.jpg"
               data-aos="zoom-out-up"
               data-aos-duration="400"
               data-aos-delay="200"
@@ -72,7 +72,7 @@
             <thumbnail
               thumbnailName="DivinHeal"
               thumbnailDescription="Backend infra for the recommendation system"
-              thumbnail="/raghav/divineheal.png"
+              thumbnail="/raghav/divineheal.jpg"
               data-aos="zoom-out-up"
               data-aos-duration="400"
               data-aos-delay="400"
@@ -87,7 +87,7 @@
             <thumbnail
               thumbnailName="TrulyAbled"
               thumbnailDescription="Website for Kudrat Foundation"
-              thumbnail="/raghav/trulyabled.png"
+              thumbnail="/raghav/trulyabled.jpg"
               data-aos="zoom-out-up"
               data-aos-duration="400"
               data-aos-delay="600"
@@ -157,7 +157,7 @@
         </div>
 
         <div class="p-thumbnail-ad">
-          <nuxt-link to="/OpenSource">
+          <nuxt-link to="/opensource">
             <thumbnail
               thumbnailName="OpenSource"
               thumbnailDescription="OpenSource"

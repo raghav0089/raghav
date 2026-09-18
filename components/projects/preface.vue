@@ -76,7 +76,7 @@
               data-aos-anchor-placement="top-bottom"
             ></p>
           </div>
-          <div>
+          <div v-if="github">
             <h5
               data-aos="fade-up"
               data-aos-duration="500"
