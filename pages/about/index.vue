@@ -432,10 +432,18 @@ export default {
   display: flex;
 }
 
+/* The photos are a mix of landscape and portrait, so letting them keep their
+   own height left the row ragged. Uniform square tiles keep the grid even. */
+.h-sec2-grid > div {
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+}
+
 .h-sec2-grid > div > img {
   width: 100%;
-  height: auto;
+  height: 100%;
   object-fit: cover;
+  object-position: center;
 }
 
 @media screen and (max-width: 1200px) {
