@@ -6,124 +6,124 @@ workbox.precaching.precacheAndRoute([
     "revision": "250b54c592a3d0da2db625d5010acbf6"
   },
   {
-    "url": "/raghav/_nuxt/04a0da475f02bbc26c9b.js",
-    "revision": "19c94dfe971beacd9527371708f747e9"
+    "url": "/raghav/_nuxt/04229f8ba53466b60510.js",
+    "revision": "92617cceb0d0db92bea065ffeada3d32"
   },
   {
-    "url": "/raghav/_nuxt/0c4ad3c8d879aaadb1ca.js",
-    "revision": "a38052ac7d3504e10a408d24928366d9"
+    "url": "/raghav/_nuxt/0a5389d1dbb257e65682.js",
+    "revision": "afae557e69d040183a7cb75797e745b5"
+  },
+  {
+    "url": "/raghav/_nuxt/0d1b3376100be04c28c7.js",
+    "revision": "669d94bae21ebaffca79bc1916676e9e"
   },
   {
     "url": "/raghav/_nuxt/102b705c33c47da1f103.js",
     "revision": "26cf53de22d1eef1e8b401c4ac44f41f"
   },
   {
-    "url": "/raghav/_nuxt/165f4080525cd1b9d6cb.js",
-    "revision": "f785a364518cbbffed0603b8eb41138c"
+    "url": "/raghav/_nuxt/19acfccb9ad0b846618c.js",
+    "revision": "f6b42940e5ce2f703e3d4a4efe3efba2"
   },
   {
-    "url": "/raghav/_nuxt/1696fcfdd1d179e9fe5c.js",
-    "revision": "cc15557e0b3b8b3b68144f0f39650f3e"
+    "url": "/raghav/_nuxt/1f1efcfd97511fd44f3f.js",
+    "revision": "282dae71da78f4e942f21bea6fe5ae72"
   },
   {
-    "url": "/raghav/_nuxt/246a00afd01e5e1f841d.js",
-    "revision": "1e1735ffad1b7dd7dbeccbfbf6b2e3ed"
+    "url": "/raghav/_nuxt/3607f74c372ffae9d568.js",
+    "revision": "6fe63feb9bca56416808c849df043860"
   },
   {
-    "url": "/raghav/_nuxt/30c3cee3437b819f155e.js",
-    "revision": "07d1fe80c80a657b9ede25b3b5c3a2d4"
+    "url": "/raghav/_nuxt/393f0dfaea182d4abfc2.js",
+    "revision": "d775dd92966943c7e738c2319f3bdc6b"
   },
   {
-    "url": "/raghav/_nuxt/34b484e8a4f71f680db3.js",
-    "revision": "adcbc34a4c72aaecd85876384aa89be6"
+    "url": "/raghav/_nuxt/3f3fc5df0366d63b754b.js",
+    "revision": "7bab0790c883f2a634c511834e23a8a3"
+  },
+  {
+    "url": "/raghav/_nuxt/4064b6e1576fedf06b51.js",
+    "revision": "e2ad8c3a7069f2828d53d3796b31bf62"
   },
   {
     "url": "/raghav/_nuxt/49924d37301c7b411d7e.js",
     "revision": "d65f52eb8820a8cb5067ac004bc7e4b6"
   },
   {
-    "url": "/raghav/_nuxt/52a60b11a3426bc9e982.js",
-    "revision": "a3359e89c9babe3978e46aff51e620db"
+    "url": "/raghav/_nuxt/4c1b4bd162e874c1b488.js",
+    "revision": "774bb0cf43e2cdc6bcde8bf41ffba9cb"
   },
   {
-    "url": "/raghav/_nuxt/5e723052741b0f828af1.js",
-    "revision": "1f62d76d1d2133e11589851b3415a314"
+    "url": "/raghav/_nuxt/503f19f771b201eeb6b3.js",
+    "revision": "60723d0bf646a26c293886948f3f2be2"
   },
   {
-    "url": "/raghav/_nuxt/638fc78685bbb0e11bc1.js",
-    "revision": "9e8e1b477ea5449c7228286f14690db1"
+    "url": "/raghav/_nuxt/56576b3406e42ad0c29f.js",
+    "revision": "3cb15796b7b10e80dcdf37bd08d108cd"
   },
   {
-    "url": "/raghav/_nuxt/670dabe123ed865c60fb.js",
-    "revision": "ef5fa34dd0a033b9c7dc80b40d1abf3d"
+    "url": "/raghav/_nuxt/586cb423676d9a60c495.js",
+    "revision": "03019c1912a091d493fabf3879374aef"
   },
   {
-    "url": "/raghav/_nuxt/80638d72fe7818efca1a.js",
-    "revision": "a739127db8aaac543c74642f413bf0b3"
+    "url": "/raghav/_nuxt/7808f8eea258313c509a.js",
+    "revision": "727709a0e6b2c3375f9225ff781134dc"
   },
   {
-    "url": "/raghav/_nuxt/83d32c02b94f241c236c.js",
-    "revision": "6b15f3226c6b7cc05f942259cfb0de89"
+    "url": "/raghav/_nuxt/79db2cf061b4163bf7ae.js",
+    "revision": "3e664fb587215f615b42b97e191d6b34"
+  },
+  {
+    "url": "/raghav/_nuxt/830b17c254936803fa4a.js",
+    "revision": "73559b23974873dadc64386de0e5c9d6"
+  },
+  {
+    "url": "/raghav/_nuxt/8dc14329fd500819e44b.js",
+    "revision": "184e489c38dfea959d128ae3c463ebdf"
   },
   {
     "url": "/raghav/_nuxt/9071994101507674388e.js",
     "revision": "fe9f5536b268b7b552cb4e85bc83c773"
   },
   {
-    "url": "/raghav/_nuxt/9576a26b50b72b80c33a.js",
-    "revision": "25057f4e63890cc0b62bcf1120b6089d"
+    "url": "/raghav/_nuxt/98540bbab6a6ba3205f2.js",
+    "revision": "fb322f24fa3b59d565ce2d985a91cfaf"
   },
   {
-    "url": "/raghav/_nuxt/9b3e554a7beef2e1a468.js",
-    "revision": "df0816230057d778f5cbda83c2667792"
+    "url": "/raghav/_nuxt/b1f16f5a8bb9eeac45af.js",
+    "revision": "a313c05147d2af88788fcaf8e61d7058"
   },
   {
-    "url": "/raghav/_nuxt/9cca39afca432b2fab85.js",
-    "revision": "b97c690a67d0acd87df962553c2fa182"
+    "url": "/raghav/_nuxt/cf4a0f47e486dc049a45.js",
+    "revision": "1618102ede63e43039ceb845855e597a"
   },
   {
-    "url": "/raghav/_nuxt/a1857a0956936ffdb093.js",
-    "revision": "4e40a5b3577972eaaa1a56148605b1a8"
-  },
-  {
-    "url": "/raghav/_nuxt/ac47ec58cb71c24ec9b6.js",
-    "revision": "5eef37c88fabb2e105c6640a2c6ef79c"
-  },
-  {
-    "url": "/raghav/_nuxt/af3e52f69cfc43369d37.js",
-    "revision": "6a2fe28b2f41c84993888bbdcb97ba44"
-  },
-  {
-    "url": "/raghav/_nuxt/bd6a770a2e8c33d474d2.js",
-    "revision": "0bb48f9fba435f5f0cd10f2c82ce7ceb"
-  },
-  {
-    "url": "/raghav/_nuxt/c5736a962d8a04201966.js",
-    "revision": "93eb76017411b068d14425a553437c34"
+    "url": "/raghav/_nuxt/d1847a8356963eb8882d.js",
+    "revision": "7076afdfc501d96f8af624238391d5fa"
   },
   {
     "url": "/raghav/_nuxt/d979af2868592f57eb18.js",
     "revision": "39d5073155b5b75bc6178c1cbf73d211"
   },
   {
-    "url": "/raghav/_nuxt/e44a52e13b774cc11c32.js",
-    "revision": "86844d93a079307c1ea367b6b5cf9e85"
+    "url": "/raghav/_nuxt/db3ae33f8aa32b2b821f.js",
+    "revision": "f194616b42ca8973859e852b7cb96e43"
   },
   {
-    "url": "/raghav/_nuxt/e9155b72bebbf13c6578.js",
-    "revision": "dc88a3b7e676903337a9c3ca59ee77c8"
+    "url": "/raghav/_nuxt/e5a17d1f65be197376aa.js",
+    "revision": "be0e1b3a90ea52c81fba7e2fb06c2c24"
+  },
+  {
+    "url": "/raghav/_nuxt/e7297eae796ec8965e08.js",
+    "revision": "64fb20609ca85accfedd482ddf3f5c10"
   },
   {
     "url": "/raghav/_nuxt/eae8b3896a5be068c171.js",
     "revision": "454b667789d8f9860d004663cc73d309"
   },
   {
-    "url": "/raghav/_nuxt/edb581a964d6264abf77.js",
-    "revision": "fedee9399f2f7a0973f17d101bae7c9b"
-  },
-  {
-    "url": "/raghav/_nuxt/f81ccdc387b912907dca.js",
-    "revision": "be2cc3353929b278ae3c50ada4f5b9a9"
+    "url": "/raghav/_nuxt/ef4173d5224bf8be6db7.js",
+    "revision": "12aca51fc8ec3cf3383e81b6672e1d83"
   }
 ], {
   "cacheId": "raghavaggarwal.com",

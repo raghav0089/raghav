@@ -185,3 +185,16 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+/* Portrait screenshots do not fill the column, and .reveal-holder is an
+   inline-block, so without this they sit hard against the left edge. */
+.p-image-100-duo {
+  text-align: center;
+}
+
+.p-image-100-duo img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
