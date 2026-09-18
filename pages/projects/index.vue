@@ -26,6 +26,51 @@
     <!-- project grid -->
     <div class="showcase-container-home">
       <div class="showcase-container-grid">
+        <div class="p-thumbnail-ad">
+          <nuxt-link to="/projects/layerpath">
+            <thumbnail
+              thumbnailName="Layerpath"
+              thumbnailDescription="Built their agent end to end"
+              thumbnail="/raghav/layerpath.png"
+              data-aos="zoom-out-up"
+              data-aos-duration="400"
+              data-aos-delay="200"
+              data-aos-once="true"
+              data-aos-anchor-placement="top-bottom"
+            />
+          </nuxt-link>
+        </div>
+
+        <div class="p-thumbnail-ad">
+          <nuxt-link to="/projects/divineheal">
+            <thumbnail
+              thumbnailName="DivinHeal"
+              thumbnailDescription="Backend infra for the recommendation system"
+              thumbnail="/raghav/divineheal.png"
+              data-aos="zoom-out-up"
+              data-aos-duration="400"
+              data-aos-delay="400"
+              data-aos-once="true"
+              data-aos-anchor-placement="top-bottom"
+            />
+          </nuxt-link>
+        </div>
+
+        <div class="p-thumbnail-ad">
+          <nuxt-link to="/projects/trulyabled">
+            <thumbnail
+              thumbnailName="TrulyAbled"
+              thumbnailDescription="Website for Kudrat Foundation"
+              thumbnail="/raghav/trulyabled.png"
+              data-aos="zoom-out-up"
+              data-aos-duration="400"
+              data-aos-delay="600"
+              data-aos-once="true"
+              data-aos-anchor-placement="top-bottom"
+            />
+          </nuxt-link>
+        </div>
+
          <div class="p-thumbnail-ad">
           <nuxt-link to="/projects/GoCorona">
             <thumbnail

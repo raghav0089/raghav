@@ -52,9 +52,6 @@
             <span class="nav__list-item">
               <nuxt-link to="/about">About</nuxt-link>
             </span>
-            <span class="nav__list-item">
-              <nuxt-link to="/freelance">Freelance</nuxt-link>
-            </span>
             <!-- <span class="nav__list-item">
               <nuxt-link to="/photography">Photography</nuxt-link>
             </span>-->
